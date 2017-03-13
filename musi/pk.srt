@@ -1240,243 +1240,313 @@ Story!
 
 274
 00:31:04,730 --> 00:31:11,436
-quickly.. give me some money.
+o tawa wawa! o pana e mani tawa mi.
+pona. tawa pona.
+==quickly.. give me some money.
  thanks bye.
 
 275
 00:31:27,150 --> 00:31:29,174
-I need to go inside.
+mi wile tawa insa.
+==I need to go inside.
 
 276
 00:31:29,968 --> 00:31:30,761
-why?
+tan seme?
+==why?
 
 277
 00:31:31,912 --> 00:31:33,737
-I want to meet that man.
+mi wile toki tawa mije ni.
+==I want to meet that man.
 
 278
 00:31:35,999 --> 00:31:43,737
-Its not a college canteen where you can
+tomo ni li tomo moku ala. sina ken tawa insa pi
+tomo moku li ken toki tawa jan pona li ken tawa. ni li tomo awen.
+==Its not a college canteen where you can
 go in and have a refreshment. its a lock up.
 
 279
 00:31:44,324 --> 00:31:47,221
-Only people who do crime can go in. understand?
+jan pi pali ike taso li ken tawa insa. sina sona anu seme?
+==Only people who do crime can go in. understand?
 
 280
 00:31:48,928 --> 00:31:52,301
-madam, bribery is a crime.
+meli o, pana mani ni li pali ike.
+==madam, bribery is a crime.
 
 281
 00:31:52,697 --> 00:31:55,713
-its a crime that's why i am.
+tan ni la mi pana e mani ni.
+==its a crime that's why i am.
 
 282
 00:31:55,990 --> 00:31:56,904
-i can put you in.
+mi ken awen e sina lon insa.
+==i can put you in.
 
 283
 00:31:57,062 --> 00:31:59,205
-please do.
+o awen.
+==please do.
 
 284
 00:32:07,420 --> 00:32:08,729
-only one hour.
+tenpo lili taso.
+==only one hour.
 
 285
 00:32:09,404 --> 00:32:16,031
-hi, i want to know your story. will you tell me?
+toki. mi wile sona e ale sina. sina toki tawa mi anu seme?
+==hi, i want to know your story. will you tell me?
 
 286
 00:32:17,182 --> 00:32:18,174
-why?
+tan seme?
+==why?
 
 287
 00:32:18,444 --> 00:32:21,182
-i am a TV reporter. It's my job.
+mi jan pi pana sona. ni li pali mi.
+==i am a TV reporter. It's my job.
 
 288
 00:32:33,920 --> 00:32:37,650
-Ask what you want to.
+o toki e wile sona sina.
+==Ask what you want to.
 
 289
 00:32:43,960 --> 00:32:46,301
-So what is your name?
+pona. nimi sina li seme?
+==So what is your name?
 
 290
 00:32:47,015 --> 00:32:51,222
-I don't have a name. but not sure why everyone call me PK.
+mi jo ala e nimi. taso tawa jan ale la mi jan Pike. mi sona ala e tan.
+==I don't have a name. but not sure why everyone call me PK.
 
 291
 00:32:51,698 --> 00:32:52,769
-what do you do?
+sina pali e seme?
+==what do you do?
 
 292
 00:32:56,817 --> 00:32:58,007
-I am astronomer.
+mi jan mun.
+==I am astronomer.
 
 293
 00:33:00,658 --> 00:33:04,865
-astronaut? people who go to moon?
+jan mun a? jan pi tawa mun anu seme?
+==astronaut? people who go to moon?
 
 294
 00:33:05,063 --> 00:33:08,396
-I have been there once. its absolutely dull place.
+tenpo wan la mi tawa mun. ona li jo e musi ala.
+==I have been there once. its absolutely dull place.
 
 295
 00:33:09,944 --> 00:33:13,833
-ok, so what's your favorite planet?
+pona. ni la sike mun seme li pona tawa sina?
+==ok, so what's your favorite planet?
 
 296
 00:33:14,071 --> 00:33:15,222
-Our own one.
+sike pi mi mute.
+==Our own one.
 
 297
 00:33:15,420 --> 00:33:17,484
-thats for sure but apart from earth?
+ma li pona tawa jan ale. o toki e sike ante.
+==thats for sure but apart from earth?
 
 298
 00:33:17,722 --> 00:33:21,134
-Earth is banged up. i said my own planet.
+sike sina li ike. sike pi mi a li pona tawa mi. 
+==Earth is banged up. i said my own planet.
 
 299
 00:33:25,261 --> 00:33:29,349
-when its night its visible up there.
+tenpo pimeja la mi ken lukin e ona.
+==when its night its visible up there.
 
 300
 00:33:30,103 --> 00:33:38,158
-..we had a huge fuzz that day when
+mi mute li lukin e sike sama, la
+pakala suli li lon. jan pi sike sina li
+sama jan pi sike mi.
+==..we had a huge fuzz that day when
 we found there is similar planet like ours exist.
 where people like us live.
 
 301
 00:33:38,389 --> 00:33:45,452
-they sent me here to do research, but
+ona li pana e mi tawa sike sina tawa kama sona.
+taso jan li kama jo e ilo lawa pi tomo tawa mun mi.
+==they sent me here to do research, but
 shockingly somebody stole my spaceship's remote control.
 
 302
 00:33:45,769 --> 00:33:49,976
-Without it i can't send signal home.
+taso mi jo ala e ona, la mi ken ala pana e toki tawa tomo mi.
+==Without it i can't send signal home.
 
 303
 00:33:50,134 --> 00:33:54,102
-and if i won't send signal nobody will come here to
+mi pana ala e toki, la jan ala li kama li tawa tomo e mi.
+==and if i won't send signal nobody will come here to
 take me back.
 
 304
 00:33:54,341 --> 00:33:58,746
-They'll think its a dangerous planet and i died here.
+ona li kama pilin e ni: sike ni li ike li moli e mi.
+==They'll think its a dangerous planet and i died here.
 
 305
 00:34:03,349 --> 00:34:07,754
-listen, open the gate i want to go home.
+o kute! o open e lupa. mi wile tawa tomo mi.
+==listen, open the gate i want to go home.
 
 306
 00:34:07,991 --> 00:34:12,189
-leave that up to us.
+sina lawa ala e tomo ni. mi mute li lawa.
+==leave that up to us.
 
 307
 00:34:12,348 --> 00:34:13,618
-i am not a thief.
+mi pali ala e ike.
+==i am not a thief.
 
 308
 00:34:13,737 --> 00:34:15,562
-yes, all thief say the same thing.
+jan ale pi pali ike li toki e ijo sama.
+==yes, all thief say the same thing.
 
 309
 00:34:15,760 --> 00:34:17,547
-where is pandey ji. call him.
+jan Panisi li lon seme? mi wile toki tawa ona.
+==where is pandey ji. call him.
 
 310
 00:34:17,745 --> 00:34:18,856
-he's not here.
+ona li lon ni ala.
+==he's not here.
 
 311
 00:34:20,126 --> 00:34:21,237
-pandey ji.
+jan Panisi o!
+==pandey ji.
 
 312
 00:34:22,785 --> 00:34:27,785
-pandey ji!
+jan Panisi o!
+meli o pini kalama wawa!
+==pandey ji!
 hey girl, keep quiet or else..
 
 313
 00:34:46,277 --> 00:34:48,420
-you think my story is nonsense?
+tawa sina la toki mi li nasa anu seme?
+==you think my story is nonsense?
 
 314
 00:34:49,523 --> 00:34:53,571
-yes, your planet language can't be bhojpuri.
+ona li nasa a. jan pi sike sina li ken ala toki lon toki Populi.
+==yes, your planet language can't be bhojpuri.
 
 315
 00:34:53,769 --> 00:34:55,475
-our ball doesn't even..
+lon la jan pi sike mi li...
+==our ball doesn't even..
 
 316
 00:34:56,626 --> 00:35:02,301
-our ball doesn't even have any language.
+jan pi sike mi li toki ala kepeken kalama.
+mi mute li toki kepeken lawa. toki ni li pakala ala.
+==our ball doesn't even have any language.
 we talk with mind. no room for confusion.
 
 317
 00:35:02,420 --> 00:35:05,475
-here they say something and mean something else.
+sike ni la toki jan li ijo. taso sona ona li ijo ante.
+==here they say something and mean something else.
 
 318
 00:35:05,554 --> 00:35:07,420
-one statement has four meanings.
+toki wan li jo e sona 4.
+==one statement has four meanings.
 
 319
 00:35:08,015 --> 00:35:12,658
-shake your head like this and
+ona li tawa e lawa sama ni, la sona pi nimi "asa" li ni:
+ni li pona. ni li pona mute. ali li pona.
+==shake your head like this and
  say its good..very good. means all is well.
 
 320
 00:35:14,087 --> 00:35:17,856
-make the eyes bigger and say "accha" it means
+ona li suli e lukin, la sona pi nimi "asa"
+li ijo wawa ike.
+==make the eyes bigger and say "accha" it means
 someone is in shock.
 
 321
 00:35:17,936 --> 00:35:20,991
-"your mother had an accident".
+"mama sina li pakala."
+"asa"? - ni li ijo wawa ike.
+=="your mother had an accident".
 "accha"? - Shock
 
 322
 00:35:21,507 --> 00:35:27,380
-when one gets angry, voice becomes loud.
+jan li kama pilin utala li wawa e kalama toki,
+la ni li kama: "asa? sina pana e sona tawa mi anu seme?"
+==when one gets angry, voice becomes loud.
 "accha"? "you are teaching me"?
 
 323
 00:35:28,285 --> 00:35:31,539
-and once someone thinks. there is a long "accha."
+jan li toki lawa, la nimi "asa" li kama lon tenpo suli.
+==and once someone thinks. there is a long "accha."
 
 324
 00:35:31,856 --> 00:35:34,158
-"acchaaa"
+"asa..."
+=="acchaaa"
 
 325
 00:35:35,150 --> 00:35:44,872
-With words you need to learn the expressions as well.
+sina ken ala toki kalama taso. sina wile kama sona e toki sinpin a.
+ni li pakala mute. wan 6 pi tenpo suno la mi kama sona e toki Populi.
+==With words you need to learn the expressions as well.
 it was so damn confusing. took me 6 hours to learn bhojpuri.
 
 326
 00:35:45,150 --> 00:35:48,721
-you mean in 6 hours you learned complete
+wan 6 pi tenpo suno la sina kama sona e toki ale Populi? 
+==you mean in 6 hours you learned complete
  bhojpuri?
 
 327
 00:35:48,880 --> 00:35:54,934
-Nobody was letting me hold their hand.
+jan ala li ken e ni: mi jo e luka ona.
+taso meli wan li pana e pona tawa mi.
+==Nobody was letting me hold their hand.
 but then i found a lady who co-operated with me.
 
 328
 00:35:55,031 --> 00:35:57,848
-I hold her hand and transffered the whole language
+mi jo e luka ona li kama jo e toki ali.
+==I hold her hand and transffered the whole language
 to me.
 
 329
 00:35:57,966 --> 00:36:01,697
-hey you just can't stop blabbering.
+o pini toki e ijo nasa!
+o pana e selo tawa lon ala pi toki sina.
+==hey you just can't stop blabbering.
 put some limit to your lie.
 
 330
@@ -4383,35 +4453,48 @@ point. let it open then.
 
 980
 01:49:30,533 --> 01:49:43,577
-gazing you, bearing you,
+mi lukin e sina. mi awen e sina.
+mi pali e ali. mi lon poka sina taso.
+==gazing you, bearing you,
 i forgotton everything and just follow you.
 
 981
 01:49:43,596 --> 01:49:49,724
-this is such a waste of time,
+ni li weka tenpo.
+olin li weka tenpo.
+==this is such a waste of time,
 love is a waste of time.
 
 982
 01:49:56,279 --> 01:50:09,089
-then also i decided atleast once in this life,
+tan ni la tenpo wan anu tenpo mute la
+mi weka e tenpo mi. olin li weka tenpo.
+==then also i decided atleast once in this life,
 i will waste my time. love is a waste of time.
 
 983
 01:50:32,436 --> 01:50:43,378
-many time i see mirror and do my hair.
+tenpo mute la mi lukin e mi li pona e linja mi.
+==many time i see mirror and do my hair.
 
 984
 01:50:43,759 --> 01:50:55,759
-may time i changed my cloths and put deodrant.
+tenpo mute la mi ante e len mi li kepeken telo pi kon pona.
+==may time i changed my cloths and put deodrant.
 
 985
 01:52:07,040 --> 01:52:16,941
-weird and unexplained feeling in my heart.
+ijo nasa li lon pilin mi.
+mi sona ala e nasin toki tawa ona.
+==weird and unexplained feeling in my heart.
 not sure how to describe.
 
 986
 01:52:19,228 --> 01:52:36,252
-I smile without reason,
+mi pana e sinpin pona tan ala.
+mi sona ala e pilin ni. ona li sama
+tawa sewi li sama toki pi kalama wawa.
+==I smile without reason,
 not sure what is going on.
 feel like flying and shouting.
 
